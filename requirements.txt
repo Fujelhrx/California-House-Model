@@ -1,0 +1,7 @@
+numpy==1.23.5
+pandas==1.5.1
+matplotlib==3.6.2 
+scikit-learn
+pathlib
+tarfile (built-in)
+urllib (built-in)
